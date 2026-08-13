@@ -19,8 +19,7 @@ Uma interface inspirada no design moderno do Airbnb, construída inteiramente co
 
 ## 📸 Demonstração
 
-*(Adicione aqui uma captura de tela do seu projeto rodando. Exemplo abaixo:)*
-> `![Captura de tela do projeto](link-da-sua-imagem.png)`
+https://presidentmustaine.github.io/CP-AIRBNB/ 
 
 ## ⚙️ Como executar o projeto
 
