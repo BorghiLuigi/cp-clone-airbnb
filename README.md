@@ -19,7 +19,7 @@ Uma interface inspirada no design moderno do Airbnb, construída inteiramente co
 
 ## 📸 Demonstração
 
-https://presidentmustaine.github.io/CP-AIRBNB/ ](https://borghiluigi.github.io/cp-clone-airbnb/
+https://borghiluigi.github.io/cp-clone-airbnb/
 
 ## ⚙️ Como executar o projeto
 
